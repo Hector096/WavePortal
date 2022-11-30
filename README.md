@@ -1,6 +1,6 @@
 # WavePortal Smart Contract
 
-> This project demonstrates a smart contract for wave to your best friend written in solidity
+> This project demonstrate a smart contract for wave to your best friend which is written in solidity.
 
 ---
 
