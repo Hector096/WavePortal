@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Wave Portal
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates a smart contract for wave to your best friend written in solidity
 
 Try running some of the following tasks:
 
